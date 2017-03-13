@@ -1,0 +1,87 @@
+"<1> main@830026923608" prio=5 runnable
+  java.lang.Thread.State: RUNNABLE
+	  at com.idey.expofb4.MainActivity$2.onError(MainActivity.java:102)
+	  at com.amazonaws.mobileconnectors.s3.transferutility.TransferStatusUpdater$3.run(TransferStatusUpdater.java:245)
+	  at android.os.Handler.handleCallback(Handler.java:733)
+	  at android.os.Handler.dispatchMessage(Handler.java:95)
+	  at android.os.Looper.loop(Looper.java:136)
+	  at android.app.ActivityThread.main(ActivityThread.java:5072)
+	  at java.lang.reflect.Method.invokeNative(Method.java:-1)
+	  at java.lang.reflect.Method.invoke(Method.java:515)
+	  at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:793)
+	  at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:609)
+	  at dalvik.system.NativeStart.main(NativeStart.java:-1)
+
+"<12> Timer-0@830053555208" prio=5 runnable
+  java.lang.Thread.State: RUNNABLE
+	  at com.idey.expofb4.MainActivity$1.run(MainActivity.java:65)
+	  at java.util.Timer$TimerImpl.run(Timer.java:284)
+
+"<20> OkHttp ConnectionPool@830055008704" daemon prio=5 sleeping
+  java.lang.Thread.State: TIMED_WAITING
+	 Incompatible thread state: thread not suspended
+
+"<19> android-sdk-progress-listener-callback-thread@830054867744" daemon prio=5 waiting
+  java.lang.Thread.State: WAITING
+	 Incompatible thread state: thread not suspended
+
+"<18> pool-1-thread-5@830054660648" prio=5 waiting for monitor entry
+  java.lang.Thread.State: BLOCKED
+	 Incompatible thread state: thread not suspended
+
+"<17> pool-1-thread-4@830054651328" prio=5 waiting for monitor entry
+  java.lang.Thread.State: BLOCKED
+	 Incompatible thread state: thread not suspended
+
+"<16> pool-1-thread-3@830054646968" prio=5 waiting for monitor entry
+  java.lang.Thread.State: BLOCKED
+	 Incompatible thread state: thread not suspended
+
+"<15> pool-1-thread-2@830054640616" prio=5 waiting for monitor entry
+  java.lang.Thread.State: BLOCKED
+	 Incompatible thread state: thread not suspended
+
+"<14> pool-1-thread-1@830054617848" prio=5 runnable
+  java.lang.Thread.State: RUNNABLE
+	 Incompatible thread state: thread not suspended
+
+"<13> TransferService-AWSTransferUpdateHandlerThread@830054580920" prio=5 runnable
+  java.lang.Thread.State: RUNNABLE
+	 Incompatible thread state: thread not suspended
+
+"<11> FileObserver@830053467464" prio=5 runnable
+  java.lang.Thread.State: RUNNABLE
+	 Incompatible thread state: thread not suspended
+
+"<10> Binder_2@830053456520" prio=5 runnable
+  java.lang.Thread.State: RUNNABLE
+	 Incompatible thread state: thread not suspended
+
+"<9> Binder_1@830053456056" prio=5 runnable
+  java.lang.Thread.State: RUNNABLE
+	 Incompatible thread state: thread not suspended
+
+"<8> FinalizerWatchdogDaemon@830053442776" daemon prio=5 waiting
+  java.lang.Thread.State: WAITING
+	 Incompatible thread state: thread not suspended
+
+"<7> FinalizerDaemon@830053442344" daemon prio=5 waiting
+  java.lang.Thread.State: WAITING
+	 Incompatible thread state: thread not suspended
+
+"<6> ReferenceQueueDaemon@830053441984" daemon prio=5 waiting
+  java.lang.Thread.State: WAITING
+	 Incompatible thread state: thread not suspended
+
+"<5> Compiler@830053441744" daemon prio=5 waiting
+  java.lang.Thread.State: WAITING
+	 Incompatible thread state: thread not suspended
+
+"<3> Signal Catcher@830053441264" daemon prio=5 waiting
+  java.lang.Thread.State: WAITING
+	 Incompatible thread state: thread not suspended
+
+"<2> GC@830053441040" daemon prio=5 waiting
+  java.lang.Thread.State: WAITING
+	 Incompatible thread state: thread not suspended
+
